@@ -89,7 +89,7 @@
   <script>
     async function updateFavicon() {
       try {
-        const response = await fetch('/api/server/info');
+        const response = await fetch('https://mlobby.alwaysdata.net/api/server/info');
         const data = await response.json();
         if (data.icon_url) {
           document.getElementById('favicon').href = data.icon_url;
