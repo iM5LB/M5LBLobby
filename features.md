@@ -65,4 +65,5 @@
   - Auto Pickup (Drops go directly to inventory with auto-smelt)
   - Death Chests (Items saved on death with hologram markers)
   - Homes & Warps (Set multiple homes and teleport to server warps)
+
   - Essentials (Kits, spawns, AFK detection, vanish, and admin tools)
