@@ -1,5 +1,28 @@
 # M5LB Lobby Documentation
 
+<!-- 
+Image Usage Examples:
+
+1. Using **Image**: syntax:
+**Image**: https://your-domain.com/image.png
+
+2. Using markdown syntax:
+![Alt text](https://your-domain.com/image.gif)
+
+3. Images work with:
+- PNG files
+- JPG/JPEG files  
+- GIF files (animated)
+- WebP files
+- Any web-accessible image URL
+
+4. Best practices:
+- Use descriptive alt text
+- Keep images under 2MB for fast loading
+- Use HTTPS URLs
+- Consider using a CDN for better performance
+-->
+
 ## getting-started
 - **Name**: Getting Started
 - **Icon**: `fa-rocket`
@@ -17,6 +40,10 @@
 - `/rg create <name>` - Claim your land
 - `/bal` - Check balance
 - `/sethome` - Save location
+
+### Getting Started Guide
+**Image**: https://via.placeholder.com/600x300/1a1a1a/ffffff?text=Getting+Started+Guide
+**Tip**: Follow these steps to get started on the server!
 
 ---
 
@@ -142,6 +169,9 @@
 - Step 2: Hold item to sell
 - Step 3: Punch the chest
 - Step 4: Set price in GUI
+
+### Shop Tutorial
+![Shop Creation Tutorial](https://via.placeholder.com/600x400/1a1a1a/ffffff?text=Shop+Creation+Tutorial)
 
 ### Commands
 - `/shop create` - Create shop
