@@ -30,9 +30,6 @@ Image Usage Examples:
 - **Background**: `bg-green-500/10`
 - **Border**: `border-green-500/30`
 - **Description**: Welcome to M5LB Lobby! Here's everything you need to start.
-**Image**: https://cdn.modrinth.com/data/5RyYvL8C/images/a1244aaf472b1276888f99278b0e4da431bf892c.gif
-![text](https://cdn.modrinth.com/data/5RyYvL8C/images/a1244aaf472b1276888f99278b0e4da431bf892c.gif)
-<img width="390" height="321" alt="image" src="https://github.com/user-attachments/assets/8744a9be-ec12-411d-9592-b92e7772695d" />
 
 ### Server Connection
 - Java Edition: 1.8 - 1.21+
@@ -45,8 +42,14 @@ Image Usage Examples:
 - `/sethome` - Save location
 
 ### Getting Started Guide
-**Image**: https://via.placeholder.com/600x300/1a1a1a/ffffff?text=Getting+Started+Guide
+**Image**: https://cdn.modrinth.com/data/5RyYvL8C/images/a1244aaf472b1276888f99278b0e4da431bf892c.gif
 **Tip**: Follow these steps to get started on the server!
+
+### Image Test Markdown
+![Markdown Image Test](https://cdn.modrinth.com/data/5RyYvL8C/images/a1244aaf472b1276888f99278b0e4da431bf892c.gif)
+
+### Image Test HTML
+<img width="390" height="321" alt="HTML Image Test" src="https://github.com/user-attachments/assets/8744a9be-ec12-411d-9592-b92e7772695d" />
 
 ---
 
@@ -273,7 +276,3 @@ Image Usage Examples:
 
 ### Get Keys
 **Tip**: Vote, events, shop, achievements!
-
-
-
-
