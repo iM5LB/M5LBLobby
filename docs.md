@@ -262,6 +262,7 @@ Image Usage Examples:
 - Common: 70% (text-gray-300)
 - Rare: 25% (text-green-400)
 - Mythic: 5% (text-purple-400)
+<img width="390" height="321" alt="image" src="https://github.com/user-attachments/assets/8744a9be-ec12-411d-9592-b92e7772695d" />
 
 ### Features
 - Preview: Right-click crate
@@ -270,3 +271,4 @@ Image Usage Examples:
 
 ### Get Keys
 **Tip**: Vote, events, shop, achievements!
+
