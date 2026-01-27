@@ -41,16 +41,6 @@ Image Usage Examples:
 - `/bal` - Check balance
 - `/sethome` - Save location
 
-### Getting Started Guide
-**Image**: https://cdn.modrinth.com/data/5RyYvL8C/images/a1244aaf472b1276888f99278b0e4da431bf892c.gif
-**Tip**: Follow these steps to get started on the server!
-
-### Image Test Markdown
-![Markdown Image Test](https://cdn.modrinth.com/data/5RyYvL8C/images/a1244aaf472b1276888f99278b0e4da431bf892c.gif)
-
-### Image Test HTML
-<img width="390" height="321" alt="HTML Image Test" src="https://github.com/user-attachments/assets/8744a9be-ec12-411d-9592-b92e7772695d" />
-
 ---
 
 ## economy
@@ -268,7 +258,7 @@ Image Usage Examples:
 - Common: 70% (text-gray-300)
 - Rare: 25% (text-green-400)
 - Mythic: 5% (text-purple-400)
-
+<img width="390" height="321" alt="HTML Image Test" src="https://github.com/user-attachments/assets/8744a9be-ec12-411d-9592-b92e7772695d" />
 ### Features
 - Preview: Right-click crate
 - Mass Open: Shift-click
@@ -276,3 +266,4 @@ Image Usage Examples:
 
 ### Get Keys
 **Tip**: Vote, events, shop, achievements!
+
