@@ -1,5 +1,14 @@
-
-
+### 1. Economy & Trading
+- **Icon**: `fa-coins`
+- **Color**: `text-yellow-400`
+- **Background**: `bg-yellow-500/10`
+- **Border**: `border-yellow-500/30`
+- **Features**:
+  - Dual Currency (Earn dollars and coins with configurable exchange rates)
+  - Player Shops (Create GUI-based shops with stockpiles)
+  - Villager Trading (Pick up, claim, and manage villagers)
+  - Smart Spawners (Stack spawners and collect drops/XP via GUI)
+  - Reward Crates (Open loot crates with rarities and milestones)
 
 ### 2. Combat & PvP
 - **Icon**: `fa-khanda`
