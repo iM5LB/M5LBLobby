@@ -1,5 +1,4 @@
-# M5LB Lobby Documentationssssssssss
-
+# M5LB Lobby Documentation
 <!-- 
 Image Usage Examples:
 
@@ -288,4 +287,5 @@ Image Usage Examples:
 
 ### Get Keys
 **Tip**: Vote, events, shop, achievements!
+
 
