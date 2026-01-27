@@ -30,7 +30,7 @@ Image Usage Examples:
 - **Background**: `bg-green-500/10`
 - **Border**: `border-green-500/30`
 - **Description**: Welcome to M5LB Lobby! Here's everything you need to start.
-
+**Image**: https://cdn.modrinth.com/data/5RyYvL8C/images/a1244aaf472b1276888f99278b0e4da431bf892c.gif
 ### Server Connection
 - Java Edition: 1.8 - 1.21+
 - Bedrock: Mobile, Console, Win10
@@ -271,4 +271,5 @@ Image Usage Examples:
 
 ### Get Keys
 **Tip**: Vote, events, shop, achievements!
+
 
