@@ -32,6 +32,8 @@ Image Usage Examples:
 - **Description**: Welcome to M5LB Lobby! Here's everything you need to start.
 **Image**: https://cdn.modrinth.com/data/5RyYvL8C/images/a1244aaf472b1276888f99278b0e4da431bf892c.gif
 ![text](https://cdn.modrinth.com/data/5RyYvL8C/images/a1244aaf472b1276888f99278b0e4da431bf892c.gif)
+<img width="390" height="321" alt="image" src="https://github.com/user-attachments/assets/8744a9be-ec12-411d-9592-b92e7772695d" />
+
 ### Server Connection
 - Java Edition: 1.8 - 1.21+
 - Bedrock: Mobile, Console, Win10
@@ -263,7 +265,6 @@ Image Usage Examples:
 - Common: 70% (text-gray-300)
 - Rare: 25% (text-green-400)
 - Mythic: 5% (text-purple-400)
-<img width="390" height="321" alt="image" src="https://github.com/user-attachments/assets/8744a9be-ec12-411d-9592-b92e7772695d" />
 
 ### Features
 - Preview: Right-click crate
@@ -272,6 +273,7 @@ Image Usage Examples:
 
 ### Get Keys
 **Tip**: Vote, events, shop, achievements!
+
 
 
 
