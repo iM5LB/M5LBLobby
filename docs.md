@@ -60,7 +60,8 @@ Image Usage Examples:
 **Note**: You can now use full markdown in notes! This includes **bold**, *italic*, `code`, [links](https://example.com), and more formatting options.
 
 ### Image Test HTML
-<img width="390" height="321" alt="HTML Image Test" src="https://github.com/user-attachments/assets/8744a9be-ec12-411d-9592-b92e7772695d" />
+<img width="854" height="439" alt="image" src="https://github.com/user-attachments/assets/f885b811-be3b-4959-a826-c4627e6f034b" />
+
 
 ---
 
@@ -287,5 +288,6 @@ Image Usage Examples:
 
 ### Get Keys
 **Tip**: Vote, events, shop, achievements!
+
 
 
