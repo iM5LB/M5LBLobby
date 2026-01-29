@@ -40,28 +40,10 @@ Image Usage Examples:
 - `/bal` - Check balance
 - `/sethome` - Save location
 
-### Getting Started Guide
-**Image**: https://cdn.modrinth.com/data/5RyYvL8C/images/a1244aaf472b1276888f99278b0e4da431bf892c.gif
-**Tip**: Follow these steps to get started on the server! You can use **bold text**, *italic text*, `inline code`, and [links](https://example.com) in tips and notes.
-
-### Markdown Formatting Examples
-- **Bold text**: Use `**bold**` or `__bold__`
-- *Italic text*: Use `*italic*` or `_italic_`
-- `Inline code`: Use backticks
-- [Links](https://github.com): Use `[text](url)` format
-- ~~Strikethrough~~: Use `~~text~~`
-
-### Code Examples
+### Try
 - `/help` - Shows **all** available commands with *detailed* descriptions
 - `/spawn` - Teleports you to the main spawn area
 - `/home [name]` - Go to your saved home location
-
-### Advanced Features
-**Note**: You can now use full markdown in notes! This includes **bold**, *italic*, `code`, [links](https://example.com), and more formatting options.
-
-### Image Test HTML
-<img width="854" height="439" alt="image" src="https://github.com/user-attachments/assets/f885b811-be3b-4959-a826-c4627e6f034b" />
-
 
 ---
 
@@ -288,6 +270,7 @@ Image Usage Examples:
 
 ### Get Keys
 **Tip**: Vote, events, shop, achievements!
+
 
 
 
